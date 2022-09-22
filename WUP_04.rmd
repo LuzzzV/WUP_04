@@ -42,7 +42,10 @@ WORDSUM is numerical and Degree is categorical therefore we will use the Numeric
 ```{r}
 boxplot(WORDSUM~DEGREE,data=data)
 ```
-Based on the evidence in the Boxplot
+
+
+Based on the evidence in the Boxplot  
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
@@ -50,6 +53,9 @@ Based on the evidence in the Boxplot
 ```{r}
 favstats(WORDSUM~DEGREE,data=data)
 ```
+
+
+The numerical summary shows that Graduate's have the highest median at 11, Bachelor's and Junior College have the second highest median at 10, the third highest is High School at 9, and Lower then High School has the lowest median at 8.  
 
 ## Inferential Results
 
