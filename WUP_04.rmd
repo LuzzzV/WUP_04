@@ -44,7 +44,7 @@ boxplot(WORDSUM~DEGREE,data=data)
 ```
 
 
-Based on the evidence in the Boxplot  
+Based on the evidence in the Boxplot, Graduate and Less than High School have the highest average difference in WORDSUM scores.
 
 ### Numerical Descriptive Results
 
@@ -81,3 +81,6 @@ Since High School and Lt High School do not pass 0, that means there is a differ
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+
